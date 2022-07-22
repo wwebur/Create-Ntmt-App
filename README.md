@@ -17,7 +17,6 @@ npx create-ntmt-app my-app
 cd my-app
 ```
 
-If you are using older versions of npm (5.2 or less), you cannot utilize [npx](https://medium.com/@maybekatz/introducing-npx-an-npm-package-runner-55f7d4bd282b).
 Use this approach instead:
 
 ```sh
@@ -93,10 +92,4 @@ MONGODB_URI=<your_mongodb_url>
 ## Thats It! 👊
 Thanks for using this package, happy coding!
 
-## Issues?
-If you encounter any issues with the boilerplate, **try updating your Node version**, or [submit an issue](https://github.com/zivnadel/create-ntmt-app/issues/new) and **make sure to include explanation and code examples.**
 
-## License
-create-ntmt-app is open source software under [MIT License](https://github.com/zivnadel/create-ntmt-app/blob/master/LICENSE.md)
-
-[@zivnadel](https://github.com/zivnadel)
